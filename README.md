@@ -1,9 +1,9 @@
 ## Hi there 👋
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Majdzed&theme=blue-navy&hide_border=true" alt="GitHub Streak" /></a>
 <!--
 **Majdzed/Majdzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Majdzed&theme=blue-navy&hide_border=true" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
