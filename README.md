@@ -1,6 +1,8 @@
 ## Hi there 👋
 I’m Majd 👋, a passionate Computer Science student at ESTIN, a junior web developer 💻, and an aspiring AI engineer 🤖. With a strong foundation in programming and a keen interest in cutting-edge technologies, I’m skilled in building dynamic web applications and exploring the transformative potential of artificial intelligence. I’m constantly learning, innovating, and working towards becoming a leader in the tech industry, where I can contribute to solving real-world problems through code and intelligent systems
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Majdzed&theme=blue-navy&hide_border=true" alt="GitHub Streak" /></a>
+          <p align="center">
+         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Majdzed&theme=blue-navy&hide_border=true&card_width=700&card_height=255" alt="GitHub Streak" /></a>
+         </p>
 <!--
 **Majdzed/Majdzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
